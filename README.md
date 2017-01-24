@@ -22,9 +22,9 @@ Nefnið dæmi um báðar gerðir af spurningum.
 	opinn spurning er spurning þegar þú svarar bara já/nei en lokuð er þá svarar hann/hún með setningu
 8. Hvað eru jaðartæki?
 
-	Tæki sem eru fyrir utan tölvuna t.d lyklaborð og Hátalarar
+	Tæki sem eru fyrir utan tölvuna t.d lyklaborð og Hátalarar.
 9. Nefndu þrjú dæmi um inntakstæki.
-	Vinnsluminni, Örgjarvi , Skjákort
+	Vinnsluminni, Örgjarvi , Skjákort.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
