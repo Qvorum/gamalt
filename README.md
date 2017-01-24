@@ -4,10 +4,9 @@
 
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er. ROM stendur fyrir Read Only Memory og er notað yfirleitt fyrir Bios
 3. Hvað er fyrirbyggjandi viðhald?
-
+ Að Skipta t.d á viftu þegar þú veist að hún er ætluðst að bila eftir viku
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
-verjast því þegar unnið er með tölvubúnað?
-
+verjast því þegar unnið er með tölvubúnað? Electrostatic Discharge er þegar tveir hlutir fá straum á milli sín, það er hægt að verjast gegn því með sérstöku armbandi
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
