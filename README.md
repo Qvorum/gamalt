@@ -2,8 +2,7 @@
 
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er. RAM stendur fyrir Random Access Memory, Það notar tölvan til að geyma eitthvað data til að ná í
 
-2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
-
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er. ROM stendur fyrir Read Only Memory og er notað yfirleitt fyrir Bios
 3. Hvað er fyrirbyggjandi viðhald?
 
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
