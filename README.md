@@ -15,7 +15,7 @@ verjast því þegar unnið er með tölvubúnað?
 	Hversu mörg vött það gefur frá sér
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
-	
+	1.Finna uppruna 2.Segja kenningu 3.Prufa kenningu 4.Prufa hvort eitthvað annað hefur bilað 5.Skrifa skýrslu 6.Gefa skýrslu til bæði vinnuveitenda og tölvueiganda
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? 
 Nefnið dæmi um báðar gerðir af spurningum.
 
