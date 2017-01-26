@@ -40,4 +40,4 @@ fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann f
 | Turn          | Inter-TechIT-5905       |  6.990 kr.  |
 | Vinnsluminni  | ADATA 16gb DDR3 1600MHZ | 19.990 kr.  |
 | SSD           | 256GB SATA3 Plextor 2.5 | 21.990 kr.  |
-|Samtals:       | 242.830 kr.             | 242.830 kr. |
+|Samtals:       |                         | 242.830 kr. |
