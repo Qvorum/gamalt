@@ -1,5 +1,4 @@
-﻿#Tæk 2
-
+#Tæk 2
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er. 
 	RAM stendur fyrir Random Access Memory, Það notar tölvan til að geyma eitthvað data til að ná í
 
@@ -28,13 +27,15 @@ Nefnið dæmi um báðar gerðir af spurningum.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-	Móðurborð - Gigabyte S1151 GA-Z170N-Gaming 5  - 24.990kr|
-	HDD - 3TB SATA3 Seagate Desktop HDD harður diskur (ST3000DM008) 64MB - 19.990 kr.|
-	CPU - Intel Core I5-6600K Quad Core örgjörvi, - 38.990 kr.|
-	Skjákort - Gigabyte GTX 1070 Xtreme Gaming skjákort 8GB GDDR5 - 89.990 kr.|
-	Aflgjafi - Fractal Design Integra M 650W aflgjafi, 80 Plus Bronze, Modular - 19.990 kr.|
-	Turn - Inter-TechIT-5905 ATX turnkassi, svartur - 6.990 kr.|
-	Vinnsluminni - ADATA 16GB DDR3 1600MHz (2x8GB) XPG V1.0 - 19.990 kr.|
-	SSD - 256GB SATA3 Plextor SSD 2.5'' M6S+ - 21.990 kr.|
-	__________________________________________________________________________________________
+    | Íhlutur    | Nafn                         | Verð          |
+    | -----------| :---------------------------:| -------------:|
+	|Móðurborð | Gigabyte S1151 GA-Z170N-Gaming 5  | 24.990kr|
+	HDD | 3TB SATA3 Seagate Desktop HDD harður diskur (ST3000DM008) 64MB | 19.990 kr.|
+	CPU | Intel Core I5-6600K Quad Core örgjörvi, | 38.990 kr.|
+	Skjákort | Gigabyte GTX 1070 Xtreme Gaming skjákort 8GB GDDR5 | 89.990 kr.|
+	Aflgjafi | Fractal Design Integra M 650W aflgjafi, 80 Plus Bronze, Modular | 19.990 kr.|
+	Turn | Inter-TechIT-5905 ATX turnkassi, svartur | 6.990 kr.|
+	Vinnsluminni | ADATA 16GB DDR3 1600MHz (2x8GB) XPG V1.0 | 19.990 kr.|
+	SSD | 256GB SATA3 Plextor SSD 2.5'' M6S+ | 21.990 kr.|
+	:------------------:
 	Samtals 242.830 kr.
