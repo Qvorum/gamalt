@@ -39,3 +39,16 @@ fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann f
 	|SSD | 256GB SATA3 Plextor SSD 2.5'' M6S+ | 21.990 kr.|
 	|:------------------:|
 	Samtals 242.830 kr.
+
+| Hlutur        | Nafn                    | Verð       |
+| ------------- |:-----------------------:| ----------:|
+| Móðurborð     | Gigabyte ZI70N Gaming 5 | 24.990 kr. |
+| HDD           | 3TB SATA3               | 19.990 kr. |
+| CPU           | Intel i5 6600k          | 38.990 kr. |
+| Skjákort      | Gigabyte GTX 1070 XTREME| 89.990 kr. |
+| Aflgjafi      | Fractal Design M 650W   | 19.990 kr. |
+| Turn          | Inter-TechIT-5905       |  6.990 kr. |
+| Vinnsluminni  | ADATA 16gb DDR3 1600MHZ | 19.990 kr. |
+| SSD           | 256GB SATA3 Plextor 2.5 | 21.990 kr. |
+|:----------------------------------------------------:|
+|Samtals: 242.830 kr.                                  |
